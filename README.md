@@ -10,7 +10,7 @@ Grafica 	-  20172020087 - Edwin Andres Salinas Chaparro - andressalinas98
     20172020082	Mateo Izquierdo Ramirez 			Matthew2017-2
     20172020038	Juan David Blanco Serrano		        DavidBBBB
   
-Servidor y Cliente 	-  20171020006 - Daniela Alexandra Martinez Rueda - 
+Servidor y Cliente 	-  20171020006 - Daniela Alexandra Martinez Rueda - damartinezru
 
     20172020058	David Alberto Manosalva Morales	 		Dauman99
     20172020062     Francisco Javier Barrero Zambrano	 	FranciscoBarrero
